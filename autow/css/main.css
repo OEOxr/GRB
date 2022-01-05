@@ -3,7 +3,9 @@
 }
 body {
   font-size: 1em !important;
-  background-color: transparent
+  background-color: transparent;
+
+}
 
 body div span{
   font-size: 1em !important;
