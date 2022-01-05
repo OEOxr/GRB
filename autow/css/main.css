@@ -2,15 +2,16 @@
   box-sizing: border-box;
 }
 body {
-  font-size: 3em !important;
+  font-size: 1em !important;
 }
 
 body div span{
-  font-size: 3em !important;
+  font-size: 1em !important;
 }
 
 body *{
   font-size: 1em !important;
+  width:100% !important;
 }
 
 .v1160_1156 {
