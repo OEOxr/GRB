@@ -4,6 +4,15 @@
 body {
   font-size: 3em !important;
 }
+
+body div span{
+  font-size: 3em !important;
+}
+
+body *{
+  font-size: 1em !important;
+}
+
 .v1160_1156 {
   width: 153px;
   height: 384px;
