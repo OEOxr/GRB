@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 1em !important;
+  background-color: transparent;
+
+}
+
+body div span{
+  font-size: 1em !important;
+}
+
+body *{
+  font-size: 1em !important;
+  width:100% !important;
+}
