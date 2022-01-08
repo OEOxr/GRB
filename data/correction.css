@@ -13,5 +13,12 @@ body div span{
 
 body *{
   font-size: 1em !important;
+font-family: Arial;
   width:100% !important;
+  color: rgba(255,255,255,1);
+  position:relative !important;
+}
+
+.title{
+	font-weight: Bold;
 }
