@@ -1,0 +1,114 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1160_1156 {
+  width: 400px;
+  height: 319px;
+  background: url("../images/v1160_1156.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 35px 18px;
+  margin: 17px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v1160_1157 {
+  width: 82px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 35px;
+  left: 159px;
+  font-family: Arial;
+  font-weight: Bold;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.v1160_1158 {
+  width: 249px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 66px;
+  left: 76px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1160_1159 {
+  width: 364px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 90px;
+  left: 18px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1160_1161 {
+  width: 169px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 114px;
+  left: 116px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1160_1155 {
+  width: 117px;
+  height: 98px;
+  background: url("../images/v1160_1155.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  left: 142px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v1160_1162 {
+  width: 125px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 253px;
+  left: 138px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1160_1163 {
+  width: 213px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 277px;
+  left: 94px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}

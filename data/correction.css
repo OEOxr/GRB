@@ -22,3 +22,17 @@ font-family: Arial;
 .title{
 	font-weight: Bold;
 }
+
+.image{
+	height: 15em;
+	width:98% !important;
+	position: relative !important;
+	margin: 1em auto;
+	top: initial;
+	left: initial;
+	background: url("image.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain !important;
+	}
+}

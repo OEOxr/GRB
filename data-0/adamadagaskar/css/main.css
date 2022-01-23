@@ -1,0 +1,114 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1159_1099 {
+  width: 326px;
+  height: 288px;
+  background: url("../images/v1159_1099.jpeg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 35px 18px;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v1159_1100 {
+  width: 76px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 35px;
+  left: 125px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.v1159_1101 {
+  width: 170px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 59px;
+  left: 78px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1159_1102 {
+  width: 290px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 83px;
+  left: 18px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1159_1104 {
+  width: 240px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 107px;
+  left: 43px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1159_1105 {
+  width: 246px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 131px;
+  left: 40px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1159_1106 {
+  width: 149px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 148px;
+  left: 89px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 6px;
+  opacity: 1;
+  text-align: left;
+}
+.v1154_912 {
+  width: 132px;
+  height: 88px;
+  background: url("../images/v1154_912.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 165px;
+  left: 97px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
